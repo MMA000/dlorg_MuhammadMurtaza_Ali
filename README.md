@@ -1,4 +1,4 @@
-# dlorg_firstname_lastname
+# dlorg_MuhammadMurtaza_Ali
 
 dlorg keeps your Downloads folder tidy by sorting new files into category
 folders. It runs in the background and organizes files based on their type.
