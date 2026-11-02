@@ -50,7 +50,7 @@ their extension or filename:
 ## Screenshots
 
 ### dlorg service status
-![dlorg service status](asset/dlorg%20status.png)
+![dlorg service status](assets/dlorg%20status.png)
 
 ### Example of organized Downloads folder
 ![Downloads folder structure](assets/example%20of%20folder%20structure%20of%20Downloads.png)
