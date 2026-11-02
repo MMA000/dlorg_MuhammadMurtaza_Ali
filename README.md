@@ -11,9 +11,9 @@ folders. It runs in the background and organizes files based on their type.
 
 ## Installation
 1. Clone the project:
-    git clone https://github.com/MMA000/dlorg_firstname_lastname.git
+    git clone https://github.com/MMA000/dlorg_MuhammadMurtaza_Ali.git
     
-    cd dlorg_firstname_lastname
+    cd dlorg_MuhammadMurtaza_Ali (change the name to yours if you like)
 
 2. Make the script executable:
     chmod +x dlorg
@@ -50,10 +50,10 @@ their extension or filename:
 ## Screenshots
 
 ### dlorg service status
-![dlorg service status](dlorg%20status.png)
+![dlorg service status](asset/dlorg%20status.png)
 
 ### Example of organized Downloads folder
-![Downloads folder structure](example%20of%20folder%20structure%20of%20Downloads.png)
+![Downloads folder structure](assets/example%20of%20folder%20structure%20of%20Downloads.png)
 
 
 

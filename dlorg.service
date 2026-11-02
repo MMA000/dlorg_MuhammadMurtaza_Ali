@@ -1,0 +1,10 @@
+[Unit]
+Description=DLORG automatic Downloads organizer
+After=default.target
+
+[Service]
+ExecStart=/home/mma/.local/bin/dlorg
+Restart=always
+
+[Install]
+WantedBy=default.target
